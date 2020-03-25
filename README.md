@@ -1,5 +1,5 @@
 # Kiuwan_Get_Analysis_By_Date
-This is a Java program to get information (date, time, lines of code, analysis code) of all your Baseline and Delivery analyses launched in a parametrizable period of time.
+This is a Java program to get information (date, time, lines of code, analysis code) via Kiuwan API REST of all your Baseline and Delivery analyses launched in a parametrizable period of time.
 
 ## Running the program
 
