@@ -18,4 +18,4 @@ This is a Java program to get information (date, time, lines of code, analysis c
 ```
 java -jar Kiuwan_Get_Analysis_By_Date.jar myusername mypassword https://kiuwan.com 1 "C:\Users\eboronat\analysis.xlsx"
 ```
-You can see an example of an output excel file attached (analysis.xlsx).
+You can see attached an example of an output excel file (analysis.xlsx).
